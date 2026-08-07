@@ -5,6 +5,7 @@
 ## 문서
 
 - [개인정보처리방침](./privacy-policy)
+- [계정 삭제 안내](./account-deletion)
 
 ## 문의
 
